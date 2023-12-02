@@ -1,16 +1,23 @@
-### Hi there 👋
+# Hello, I'm David! 👋
 
-<!--
-**dlin96/dlin96** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm a passionate Software Engineer, interested in areas like AI/ML, Distributed Systems, Privacy and Security. Welcome to my GitHub profile!
 
-Here are some ideas to get you started:
+- 🔭 I’m currently working at AWS.
+- 🌱 I’m currently learning React, FastAPI, Golang, Cassandra.
+- 📫 How to reach me: me@davidxlin.dev.
+- 😄 Pronouns: He/Him.
+- ⚡ Fun fact: I'm learning how to create my own animated short on Blender.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Skills
+
+- Programming Languages: Python, Java, Kotlin.
+- Frameworks: FastAPI, React.
+- Databases: DynamoDB, Postgresql, Redis, Firebase.
+- Tools & Technologies: Git, AWS, Docker, Github workflows, bash/zsh.
+
+## Let's Connect
+
+- LinkedIn: https://www.linkedin.com/in/davidxlin/
+- Website: davidxlin.dev
+
+Feel free to reach out to me! Let's connect and collaborate on interesting projects.
