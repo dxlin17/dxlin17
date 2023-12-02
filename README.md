@@ -2,7 +2,6 @@
 
 I'm a passionate Software Engineer, interested in areas like AI/ML, Distributed Systems, Privacy and Security. Welcome to my GitHub profile!
 
-- 🔭 I’m currently working at AWS.
 - 🌱 I’m currently learning React, FastAPI, Golang, Cassandra.
 - 📫 How to reach me: me@davidxlin.dev.
 - 😄 Pronouns: He/Him.
