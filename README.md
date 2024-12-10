@@ -14,9 +14,4 @@ I'm a passionate Software Engineer, interested in areas like AI/ML, Distributed 
 - Databases: DynamoDB, Postgresql, Redis, Firebase.
 - Tools & Technologies: Git, AWS, Docker, Github workflows, bash/zsh.
 
-## Let's Connect
-
-- LinkedIn: https://www.linkedin.com/in/davidxlin/
-- Website: davidxlin.dev
-
 Feel free to reach out to me! Let's connect and collaborate on interesting projects.
